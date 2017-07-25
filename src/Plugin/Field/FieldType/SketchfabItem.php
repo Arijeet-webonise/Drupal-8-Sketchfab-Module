@@ -12,7 +12,7 @@ use Drupal\Core\TypedData\DataDefinition;
  *
  * @FieldType(
  *   id = "sketchfab_field",
- *   label = @Translation("Embed 3D"),
+ *   label = @Translation("Embed Sketchfab"),
  *   description = @Translation("Embed 3D model in pages."),
  *   category = @Translation("Media"),
  *   default_widget = "sketchfab_widget",
